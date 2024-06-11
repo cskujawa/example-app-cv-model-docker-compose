@@ -1,3 +1,5 @@
+This is an identical port of the project [eere](https://github.com/streamlit/example-app-cv-model).
+I forked that repo to make it into a docker compose project.
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/streamlit/example-app-cv-model/main)
 

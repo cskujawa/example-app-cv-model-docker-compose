@@ -1,0 +1,12 @@
+version: '3.8'
+
+services:
+  streamlit-cv:
+    container_name: streamlit-cv
+    build: .
+    ports:
+      - "8501:8501"
+    volumes:
+      - .:/app
+    environment:
+      - PYTHONUNBUFFERED=1

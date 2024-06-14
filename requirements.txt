@@ -2,5 +2,10 @@ streamlit
 tensorflow
 numpy
 pillow
+transformers
+torch
+huggingface_hub
+openai
+python-dotenv
 
 click==8

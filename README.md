@@ -19,8 +19,8 @@ Before you start, ensure you have the following installed:
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/cskujawa/transcription-sentiment-fastapi.git
-cd transcription-sentiment-fastapi
+git clone https://github.com/cskujawa/example-app-cv-model-docker-compose.git
+cd example-app-cv-model-docker-compose
 ```
 ### Running the Application
 For Docker users, build the Docker image and run the container:

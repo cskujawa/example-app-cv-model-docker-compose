@@ -9,7 +9,22 @@ This repository contains the source code for a computer vision app built using S
 
 <img width="600" alt="image" src="https://github.com/cskujawa/example-app-cv-model-docker-compose/blob/main/CV-App.png">
 
+### Prerequisites
 
-### Questions? Comments?
+Before you start, ensure you have the following installed:
+- Docker (for containerization)
 
-Please ask in the [Streamlit community](https://discuss.streamlit.io).
+### Installation
+
+Clone the repository to your local machine:
+
+```bash
+git clone https://github.com/cskujawa/transcription-sentiment-fastapi.git
+cd transcription-sentiment-fastapi
+```
+### Running the Application
+For Docker users, build the Docker image and run the container:
+
+```bash
+docker compose up -d
+```

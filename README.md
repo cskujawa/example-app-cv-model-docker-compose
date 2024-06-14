@@ -7,7 +7,7 @@ I forked that repo to made it into a docker compose project, added in additional
 
 This repository contains the source code for a computer vision app built using Streamlit! The app enables a user to upload images (from file, webcam or URL) and see how some famous pre-trained deep learning models would classify them!
 
-<img width="600" alt="image" src="https://github.com/cskujawa/example-app-cv-model-docker-compose/blob/main/streamlit_app.py">
+<img width="600" alt="image" src="https://github.com/cskujawa/example-app-cv-model-docker-compose/blob/main/CV-App.png">
 
 
 ### Questions? Comments?

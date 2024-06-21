@@ -1,5 +1,5 @@
 Used this example project [here](https://github.com/streamlit/example-app-cv-model) as a foundation for this app.
-I forked that repo to made it into a docker compose project, added in additional CV models to compare, set the results to sort by the confidence score, and if 3 or more models had 50% or greater confidence it gets a poem written by ChatGPT.
+I forked that repo to make it into a docker compose project, added in additional CV models to compare, set the results to sort by the confidence score, and if 3 or more models had 50% or greater confidence it gets a poem written by ChatGPT.
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/streamlit/example-app-cv-model/main)
 
